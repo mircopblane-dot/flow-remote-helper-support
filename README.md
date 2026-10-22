@@ -2,13 +2,13 @@
 
 Расширение Chrome для работы с Flow с проверкой доступа через сервис совместимости.
 
-**[Скачать установщик для Windows](https://github.com/mircopblane-dot/flow-remote-helper-support/releases/latest/download/FlowRemoteHelper-Setup-3.0.3.exe)** · [Все релизы](https://github.com/mircopblane-dot/flow-remote-helper-support/releases) · [Получить ключ в Telegram](https://t.me/testery_ai_bot?start=flow)
+**[Скачать установщик для Windows](https://github.com/mircopblane-dot/flow-remote-helper-support/releases/latest/download/FlowRemoteHelper-Setup-3.0.4.exe)** · [Все релизы](https://github.com/mircopblane-dot/flow-remote-helper-support/releases) · [Получить ключ в Telegram](https://t.me/testery_ai_bot?start=flow)
 
-Текущий выпуск: **3.0.3**. В релизах доступны Windows EXE, ZIP для ручной установки и SHA-256 для проверки файлов. Исходники приложения в публичные релизы не включаются; автоматически создаваемые GitHub архивы Source code содержат документацию этого репозитория.
+Текущий выпуск: **3.0.4**. В релизах доступны Windows EXE, ZIP для ручной установки и SHA-256 для проверки файлов. Исходники приложения в публичные релизы не включаются; автоматически создаваемые GitHub архивы Source code содержат документацию этого репозитория.
 
 ## Установка
 
-1. Скачайте `FlowRemoteHelper-Setup-3.0.3.exe` из раздела Releases и запустите его. Права администратора не нужны. Установщик пока не имеет цифровой подписи издателя.
+1. Скачайте `FlowRemoteHelper-Setup-3.0.4.exe` из раздела Releases и запустите его. Права администратора не нужны. Установщик пока не имеет цифровой подписи издателя.
 2. Выберите нужный профиль Chrome и подготовьте файлы.
 3. Откройте страницу расширений через кнопку установщика: вставьте скопированный адрес в адресную строку Chrome. Включите «Режим разработчика» и выберите «Загрузить распакованное», затем укажите папку из установщика.
 4. В настройках расширения сохраните выданный ключ и откройте https://flow.google.com/.
